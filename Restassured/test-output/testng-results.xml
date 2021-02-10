@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7961" started-at="2021-02-10T01:15:48 IST" finished-at="2021-02-10T01:15:56 IST">
+  <suite name="Default suite" duration-ms="14970" started-at="2021-02-10T10:34:29 IST" finished-at="2021-02-10T10:34:44 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7961" started-at="2021-02-10T01:15:48 IST" finished-at="2021-02-10T01:15:56 IST">
+    <test name="Default test" duration-ms="14970" started-at="2021-02-10T10:34:29 IST" finished-at="2021-02-10T10:34:44 IST">
       <class name="APIs.userRegisterPOST">
-        <test-method status="PASS" signature="RegisteruserPOST()[pri:0, instance:APIs.userRegisterPOST@458c1321]" name="RegisteruserPOST" duration-ms="5617" started-at="2021-02-10T01:15:48 IST" finished-at="2021-02-10T01:15:54 IST">
+        <test-method status="PASS" signature="RegisteruserPOST()[pri:0, instance:APIs.userRegisterPOST@2bbf4b8b]" name="RegisteruserPOST" duration-ms="9880" started-at="2021-02-10T10:34:29 IST" finished-at="2021-02-10T10:34:39 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RegisteruserPOST -->
       </class> <!-- APIs.userRegisterPOST -->
       <class name="APIs.userDELETE">
-        <test-method status="PASS" signature="DeleteUser()[pri:0, instance:APIs.userDELETE@11438d26]" name="DeleteUser" duration-ms="452" started-at="2021-02-10T01:15:54 IST" finished-at="2021-02-10T01:15:54 IST">
+        <test-method status="PASS" signature="DeleteUser()[pri:0, instance:APIs.userDELETE@30a3107a]" name="DeleteUser" duration-ms="1346" started-at="2021-02-10T10:34:39 IST" finished-at="2021-02-10T10:34:40 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DeleteUser -->
       </class> <!-- APIs.userDELETE -->
       <class name="APIs.userCreationPOST">
-        <test-method status="PASS" signature="CreatePOST()[pri:0, instance:APIs.userCreationPOST@34cd072c]" name="CreatePOST" duration-ms="757" started-at="2021-02-10T01:15:54 IST" finished-at="2021-02-10T01:15:55 IST">
+        <test-method status="PASS" signature="CreatePOST()[pri:0, instance:APIs.userCreationPOST@33c7e1bb]" name="CreatePOST" duration-ms="1397" started-at="2021-02-10T10:34:40 IST" finished-at="2021-02-10T10:34:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreatePOST -->
       </class> <!-- APIs.userCreationPOST -->
       <class name="APIs.usersinglelistGET">
-        <test-method status="PASS" signature="test_01()[pri:0, instance:APIs.usersinglelistGET@7a1ebcd8]" name="test_01" duration-ms="314" started-at="2021-02-10T01:15:55 IST" finished-at="2021-02-10T01:15:56 IST">
+        <test-method status="PASS" signature="UserlistGET()[pri:0, instance:APIs.usersinglelistGET@34c4973]" name="UserlistGET" duration-ms="746" started-at="2021-02-10T10:34:41 IST" finished-at="2021-02-10T10:34:42 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_01 -->
+        </test-method> <!-- UserlistGET -->
       </class> <!-- APIs.usersinglelistGET -->
       <class name="APIs.userLoginPOST">
-        <test-method status="PASS" signature="LoginUserPOST()[pri:0, instance:APIs.userLoginPOST@5faeada1]" name="LoginUserPOST" duration-ms="709" started-at="2021-02-10T01:15:56 IST" finished-at="2021-02-10T01:15:56 IST">
+        <test-method status="PASS" signature="LoginUserPOST()[pri:0, instance:APIs.userLoginPOST@52feb982]" name="LoginUserPOST" duration-ms="1508" started-at="2021-02-10T10:34:42 IST" finished-at="2021-02-10T10:34:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginUserPOST -->
