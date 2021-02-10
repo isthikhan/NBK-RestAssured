@@ -19,3 +19,7 @@ public class Logincustomer {
 		}
 
 }
+/*"{\r\n" + 
+"    \"name\": \"morpheus\",\r\n" + 
+"    \"job\": \"leader\"\r\n" + 
+"}" */
