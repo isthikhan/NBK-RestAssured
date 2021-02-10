@@ -11,8 +11,8 @@ public class Registercustomer {
 		
 		
 			Register Reg = new Register();
-			Reg.setEmail(email);
-			Reg.setPassword(password);
+			Reg.setEmail("eve.holt@reqres.in");
+			Reg.setPassword("pistol");
 			return Reg;
 			
 		}

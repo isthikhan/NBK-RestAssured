@@ -24,7 +24,7 @@ public class PropertiesReader {
 	public String getGlobalvalue(String key) throws IOException
 	{
 		Properties prop = new Properties();
-		FileInputStream fis = new FileInputStream("E:\\Automation\\Eclipse\\Restassured\\src\\test\\java\\Utili\\Global.properties");
+		FileInputStream fis = new FileInputStream("C:\\Users\\THI1805386\\git\\NBK-RestAssured\\Restassured\\src\\test\\java\\Utili\\Global.properties");
 		prop.load(fis);
 		return prop.getProperty(key);
 		

@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 import Pojo.Customer;
 
 public class Createcustomer {
+
 	@Test
 	public Customer ccustomerdata(String name,String Job) {
 	
@@ -16,3 +17,8 @@ public class Createcustomer {
 	}
 
 }
+
+/*"{\r\n" + 
+"    \"name\": \"morpheus\",\r\n" + 
+"    \"job\": \"leader\"\r\n" + 
+"}" */
